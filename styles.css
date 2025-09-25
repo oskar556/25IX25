@@ -1,10 +1,6 @@
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    font-size: 200px;
     text-align: center;
-    background-color: #a0a0a0;
-    padding: 20px;
-}
-
-body {
-    background-color: #f0f0f0;
+    padding: 15%;
 }
